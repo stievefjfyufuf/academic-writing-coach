@@ -1,0 +1,7 @@
+interface:
+  display_name: "Academic Writing Coach"
+  short_description: "Analisis corpus jurnal dan penulisan akademis kritis"
+  default_prompt: "Gunakan $academic-writing-coach untuk menginventarisasi dan menyaring sumber bila saya memberi folder, membaca jurnal secara teliti, lalu menyusun atau menyunting tugas akademis saya secara kritis dan alami sambil menjaga suara penulis, integritas akademik, makna, data, sitasi, serta format keluaran yang diminta."
+
+policy:
+  allow_implicit_invocation: true
